@@ -17,6 +17,7 @@ String gg, a, b, c;
 
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
